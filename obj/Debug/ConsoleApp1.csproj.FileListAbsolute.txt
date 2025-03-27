@@ -1,0 +1,7 @@
+C:\Users\diak\Desktop\Deak_Szabolcs\KOPASZ\2025.03.27 EUTAZAS c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\diak\Desktop\Deak_Szabolcs\KOPASZ\2025.03.27 EUTAZAS c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\diak\Desktop\Deak_Szabolcs\KOPASZ\2025.03.27 EUTAZAS c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\diak\Desktop\Deak_Szabolcs\KOPASZ\2025.03.27 EUTAZAS c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\Deak_Szabolcs\KOPASZ\2025.03.27 EUTAZAS c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\diak\Desktop\Deak_Szabolcs\KOPASZ\2025.03.27 EUTAZAS c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\diak\Desktop\Deak_Szabolcs\KOPASZ\2025.03.27 EUTAZAS c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
